@@ -3,12 +3,12 @@
   "method": "icx_sendTransaction",
   "params": {
     "version": "0x3",
-    "from": "<YOUR_WALLET_ADDRESS>",
+    "from": "hx470a5fc22d588ff3a504717a995bd2b2e3d4ae9c",
     "value": "0xfffff05b59d3b2",
     "stepLimit": "0x200000",
     "nid": "0x3",
     "nonce": "0x2",
-    "to": "<SCORE_ADDRESS>",
+    "to": "cxc18108807da977f7c783931a10129983abd6b085",
     "dataType": "call",
     "data": {
       "method": "set_treasury"
